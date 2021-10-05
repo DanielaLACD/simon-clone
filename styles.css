@@ -1,0 +1,144 @@
+.navbar{
+  height: 80px
+}
+.image-size{
+   height: 60px;
+   width: 130px;
+}
+.nav-link{
+  color: white;
+  font-size: 12px;
+}
+.card-title-one{
+  color: #AA4A44;
+  font-size: 50px;
+}
+.card-text{
+  font-size: 22px;
+}
+.find{
+  background-color: white;
+  border: none;
+  padding-right: 30px;
+  padding-left:  30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text: bold;
+}
+.hero1-card {
+  border: none;
+}
+.hero2-card{
+  background-color: #dcdcdc;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  height: 140px;
+  width: 100vw;
+}
+.hero3-card {
+  border: none;
+}
+.hero-3 {
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.hero4-card{
+  border: none;
+  /* margin-top: 3%; */
+}
+.hero-6{
+  background-color: #dcdcdc;
+}
+.sign{
+  color: grey;
+  font-weight: 510;
+}
+.more{
+  color: grey;
+  font-weight: 510;
+}
+.explore{
+  color: grey;
+  font-weight: 510;
+}
+.learn{
+  color: grey;
+  font-weight: 510;
+}
+.title{
+  text-align: center;
+  padding-top: 40px;
+  font-weight: 300;
+  font-size: 38px;
+
+}
+.card-group{
+  color: black;
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  margin: 40px;
+}
+.card-body{
+  background-color: #dcdcdc;
+  color: black
+}
+.card-title{
+  font-weight: 600;
+}
+.card-text{
+  font-size: 18px;
+}
+
+.hero7{
+  background-color: black;
+  color: white;
+  height: 24px;
+  width:100vw;
+}
+
+.purple-text{
+  color: purple;
+}
+
+}
+.card-hero-6 {
+  width: 75%;
+}
+
+.material-sharp{
+  height: 30px;
+}
+.card-text-end{
+  padding-top: 2px;
+  padding-bottom: 1px;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 450;
+}
+.footer-left-subtext{
+  line-height: 0.3em;
+}
+.one{
+  text-decoration: none;
+  color: grey;
+}
+.two{
+  text-decoration: none;
+  color: grey;
+}
+.three{
+  text-decoration: none;
+  color: grey;
+}
+.four{
+  text-decoration: none;
+  color: grey;
+}
+
+.font-size{
+  font-size: 12px;
+}
